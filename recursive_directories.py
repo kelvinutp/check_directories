@@ -24,8 +24,7 @@ def recursive(x):
         return
         
 
-# dire=input('Direccion: ')
-dire=r'C:\Users\Kelvin Kung\OneDrive\Kelvin K\LiCo-3-20210609T104246Z-001'
+dire=input('Direccion: ')
 recursive(dire)
 for a in z:
     print(a)
