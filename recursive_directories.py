@@ -23,7 +23,7 @@ def recursive(x):
         print('la direccion ingresada no es un directorio')
         return
         
-if __name__='__main__':
+if __name__=='__main__':
     dire=input('Direccion: ')
     recursive(dire)
     for a in z:
